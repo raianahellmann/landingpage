@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f9f9f9;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 300px;
+    margin: 200px auto;
+    padding: 40px 20px;
+    
+  }
+  
+  .profile-img {
+    width: 160px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+  }
+
+  
+  .links a {
+    display: block;
+    margin: 10px 0;
+    padding: 12px;
+    background: #7B68EE;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+  }
+
+  a:hover {
+    background: white;
+    color: black ;
+}
